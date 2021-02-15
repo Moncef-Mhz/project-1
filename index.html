@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+	<!--background-->
+	<div class="container">
+
+		<!--background contents-->
+		<header>
+			<!--Logo-->
+			<div class="logo">
+				<a href="#">LOGO</a>
+			</div>
+
+			<!--nav-links-->
+			<div class="nav">
+				<ul>
+					<li><a href="#">Home</a></li>
+					<li><a href="#">Games</a></li>
+					<li><a href="#">Market</a></li>
+					<li><a href="#">About</a></li>
+					<li><a href="#">Contact</a></li>
+					<li><a href="#"><i class="fa fa-search"></i></a></li>
+				</ul>
+			</div>
+
+			<!--burger-->
+			<div class="container-burger" onclick="myFunction(this)">
+				<div class="bar1"></div>
+				<div class="bar2"></div>
+				<div class="bar3"></div>
+			</div>
+
+		</header>
+
+		<!--background darker-->
+		<div class='overlay'></div>
+
+		<!--content-->
+		<main class="content">
+			<div class='h1-content'>
+				<h1>Brand Name</h1>
+				<div class='container-content'>
+					<div class='row'>
+						<h2><i class='fas fa-desktop'></i></h2>
+						<h4 id="num">25</h4>
+					</div>
+					<div class='row'>
+						<h2><i class='fab fa-xbox'></i></h2>
+						<h4 id="num1">60</h4>
+					</div>
+					<div class='row'>
+						<h2><i class='fab fa-playstation'></i></h2>
+						<h4 id="num2">40</h4>
+					</div>
+					<div class='row'>
+						<h2>All</h2>
+						<!--their result of all-->
+						<h4 id="result"></h4>
+					</div>
+				</div>
+			</div>
+			
+		</main>
+
+	</div>
+
+    <script src='app.js'></script>
+</body>
+</html>

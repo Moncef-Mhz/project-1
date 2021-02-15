@@ -1,0 +1,799 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"spin\t⟠"
+			],
+			[
+				"a",
+				"animation\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"5",
+				"5rem;\t⟠"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"bo",
+				"border-box;\t⟠"
+			],
+			[
+				"st",
+				"student\t⟠"
+			],
+			[
+				"max",
+				"max_student\t⟠"
+			],
+			[
+				"t",
+				"type\ttype ⟠"
+			],
+			[
+				"u",
+				"union(…)\tfunction ⟠"
+			],
+			[
+				"p",
+				"print\tfunction ⟠"
+			],
+			[
+				"d",
+				"dict1\tdict ⟠"
+			],
+			[
+				"pri",
+				"print(tuple1\t1★ pro ⟠"
+			],
+			[
+				"lis",
+				"list1\tlist ⟠"
+			],
+			[
+				"l",
+				"list1\tlist ⟠"
+			],
+			[
+				"i",
+				"index\t⟠"
+			],
+			[
+				"lo",
+				"locals()\tfunction ⟠"
+			],
+			[
+				"wh",
+				"whitenoise"
+			],
+			[
+				"n",
+				"None\t__class__ ⟠"
+			],
+			[
+				"ma",
+				"max_length=…\tkeyword ⟠"
+			],
+			[
+				"in",
+				"IntegerField\ttype ⟠"
+			],
+			[
+				"1000",
+				"1000,null=True\t3★ pro ⟠"
+			],
+			[
+				"A",
+				"AutoField\ttype ⟠"
+			],
+			[
+				"context",
+				"context = {\t⟠"
+			],
+			[
+				"sc",
+				"scroll-behavior\tproperty"
+			],
+			[
+				"ba",
+				"background-origin\tproperty"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"ove",
+				"overflow-x\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"name",
+				"name = models.CharField\t1★ pro ⟠"
+			],
+			[
+				"R",
+				"random"
+			],
+			[
+				"_",
+				"_min"
+			],
+			[
+				"random",
+				"Random\ttype ⟠"
+			],
+			[
+				"num",
+				"num_min\t⟠"
+			],
+			[
+				"ra",
+				"randint\t⟠"
+			],
+			[
+				"fil",
+				"FilePathField\ttype ⟠"
+			],
+			[
+				"o",
+				"orange;\t⟠"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"white",
+				"white;\t⟠"
+			],
+			[
+				"ju",
+				"justify-content\t⟠"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"jus",
+				"justify-content: center\t⟠"
+			],
+			[
+				"end",
+				"endif\t⟠"
+			],
+			[
+				"pa",
+				"page\tPage ⟠"
+			],
+			[
+				"page",
+				"page_num\t⟠"
+			],
+			[
+				"get",
+				"get_all_Games_by_id(…)\tfunction ⟠"
+			],
+			[
+				"Ca",
+				"Category_id\t⟠"
+			],
+			[
+				"cat",
+				"Category_id"
+			],
+			[
+				"Cat",
+				"category\t⟠"
+			],
+			[
+				"Con",
+				"container"
+			],
+			[
+				"f",
+				"ForeignKey\ttype ⟠"
+			],
+			[
+				"m",
+				"Model\ttype ⟠"
+			],
+			[
+				"nu",
+				"null=True\t1★ pro ⟠"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"ob",
+				"object-fit\tproperty"
+			],
+			[
+				"post",
+				"post.image.url\t⟠"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"ti",
+				"title\t⟠"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"dis",
+				"display: flex\t⟠"
+			],
+			[
+				"bored",
+				"border\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"fa",
+				"fa-facebook\t⟠"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"con",
+				"content\t⟠"
+			],
+			[
+				"en",
+				"endblock\t⟠"
+			],
+			[
+				"co",
+				"command"
+			],
+			[
+				"conf",
+				"config(…)\tfunction ⟠"
+			],
+			[
+				"ytd",
+				"ytdError\tLabel ⟠"
+			],
+			[
+				"yt",
+				"ytdError\tLabel ⟠"
+			],
+			[
+				"el",
+				"else:\tkeyword ⟠"
+			],
+			[
+				"choi",
+				"choices\tlist ⟠"
+			],
+			[
+				"loca",
+				"locationError\tLabel ⟠"
+			],
+			[
+				"as",
+				"askdirectory(…)\tfunction ⟠"
+			],
+			[
+				"file",
+				"filedialog\tmodule ⟠"
+			],
+			[
+				"flo",
+				"Folder_name\tstr ⟠"
+			],
+			[
+				"y",
+				"ytdQuality\tLabel ⟠"
+			],
+			[
+				"E",
+				"Exception\ttype ⟠"
+			],
+			[
+				"gam",
+				"Games\ttype ⟠"
+			],
+			[
+				"pr",
+				"print(…)\tfunction ⟠"
+			],
+			[
+				"se",
+				"secretPassword\t⟠"
+			],
+			[
+				"ty",
+				"typedPassword:\t⟠"
+			],
+			[
+				"re",
+				"return\tkeyword ⟠"
+			],
+			[
+				"for",
+				"for x\t⟠"
+			],
+			[
+				"po",
+				"posts\t⟠"
+			],
+			[
+				"ex",
+				"extends\t⟠"
+			],
+			[
+				"sl",
+				"SlugField(max_length\t1★ pro ⟠"
+			],
+			[
+				"slug",
+				"slug = models\t3★ pro ⟠"
+			],
+			[
+				"de",
+				"details"
+			],
+			[
+				"ga",
+				"games_page, name\t3★ pro ⟠"
+			],
+			[
+				"G",
+				"Games\ttype ⟠"
+			],
+			[
+				"e",
+				"else:\tkeyword ⟠"
+			],
+			[
+				"transform",
+				"transform 0.5s\t⟠"
+			],
+			[
+				"sca",
+				"scaleY()\ttransform"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"H",
+				"H2\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"il",
+				"inline-block\tdisplay"
+			],
+			[
+				"gray",
+				"gray;\t⟠"
+			],
+			[
+				"sha",
+				"box-shadow\tproperty"
+			],
+			[
+				"j",
+				"justify-content: center;\t⟠"
+			],
+			[
+				"sta",
+				"static\t⟠"
+			],
+			[
+				"he",
+				"head\tTag"
+			],
+			[
+				"templae",
+				"templates\t⟠"
+			],
+			[
+				"g",
+				"Games\t⟠"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"mys",
+				"mysite\t⟠"
+			],
+			[
+				"Ba",
+				"BASE_DIR\t⟠"
+			],
+			[
+				"bas",
+				"BASE_DIR\t⟠"
+			],
+			[
+				"me",
+				"meta charset\t⟠"
+			],
+			[
+				"DOC",
+				"DOCTYPE html\t⟠"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"djan",
+				"django\t⟠"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"te",
+				"list-style-type\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: While Loop"
+			],
+			[
+				"me",
+				"View: Toggle Menu"
+			],
+			[
+				"m",
+				"View: Toggle Menu"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 165.0,
+		"history":
+		[
+			"cd C:\\Users\\user\\Documents\\all\\devlopement\\py",
+			"app.py",
+			"4.py"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/Documents/all/devlopement/py/tkinter/1.py",
+		"/C/Users/user/Documents/all/devlopement/py/3.py",
+		"/C/Users/user/Documents/all/devlopement/python/django/mysite/procfile",
+		"/C/Users/user/Documents/all/devlopement/python/django/mysite/home/static/style.css",
+		"/C/Users/user/Documents/all/devlopement/python/django/mysite/templates/footer.html",
+		"/C/Users/user/Documents/all/devlopement/python/django/mysite/templates/base.html",
+		"/C/Users/user/Documents/all/devlopement/python/django/mysite/home/urls.py",
+		"/C/Users/user/Documents/all/devlopement/python/django/mysite/home/admin.py",
+		"/C/Users/user/Documents/all/devlopement/python/django/mysite/templates/details.html",
+		"/C/Users/user/Documents/all/devlopement/python/django/mysite/home/models.py",
+		"/C/Users/user/Documents/all/devlopement/python/django/mysite/home/static/style2.css",
+		"/C/Users/user/Documents/all/devlopement/python/django/mysite/templates/navbar.html",
+		"/C/Users/user/Documents/all/devlopement/python/django/mysite/home/static/app.js",
+		"/C/Users/user/Documents/all/devlopement/python/django/mysite/home/views.py",
+		"/C/Users/user/Documents/all/devlopement/python/django/mysite/mysite/urls.py",
+		"/C/Users/user/Documents/all/devlopement/python/django/mysite/templates/games.html",
+		"/C/Users/user/Documents/all/devlopement/python/django/mysite/templates/home.html",
+		"/C/Users/user/Documents/all/devlopement/python/django/mysite/templates/carsoule.html",
+		"/C/Users/user/Documents/all/devlopement/front-end/project-4/4.jpg",
+		"/C/Users/user/Documents/all/devlopement/front-end/project-4/2.jpg",
+		"/C/Users/user/Documents/all/devlopement/front-end/project-4/ml.jpg",
+		"/C/Users/user/Documents/all/devlopement/front-end/project-4/i.png",
+		"/C/Users/user/Documents/all/devlopement/front-end/project-4/p.jpg",
+		"/C/Users/user/Documents/all/devlopement/front-end/project-4/ve.jpg",
+		"/C/Users/user/Documents/all/devlopement/front-end/project-4/webdev.jpg",
+		"/C/Users/user/Documents/all/devlopement/front-end/project-4/1.jpg",
+		"/C/Users/user/Documents/all/devlopement/py/learning/Download Youtube Videos or Playlist or Audio  with Python .mp4",
+		"/C/Users/user/Documents/all/devlopement/py/learning/1.py",
+		"/C/Users/user/Documents/all/devlopement/front-end/project-5/style.css",
+		"/C/Users/user/Documents/all/devlopement/front-end/project-5/app.js",
+		"/C/Users/user/Documents/all/devlopement/python/django/mysite/mysite/settings.py",
+		"/C/Users/user/Documents/all/devlopement/python/django#2/mysite/home/views.py",
+		"/C/Users/user/Documents/all/devlopement/python/django#2/mysite/home/static/style.css",
+		"/C/Users/user/Documents/all/devlopement/python/django#2/mysite/templates/home.html",
+		"/C/Users/user/Documents/all/devlopement/python/django#2/mysite/mysite/urls.py",
+		"/C/Users/user/Documents/all/devlopement/python/django#2/mysite/templates/base.html",
+		"/C/Users/user/Documents/all/devlopement/python/django#2/mysite/mysite/settings.py",
+		"/C/Users/user/Documents/all/devlopement/python/django#2/mysite/home/urls.py",
+		"/C/Users/user/Documents/all/devlopement/python/django#2/mysite/template/base.html",
+		"/C/Users/user/Documents/all/devlopement/python/django#2/mysite/template/home.html",
+		"/C/Users/user/Documents/all/devlopement/python/django/mysite/templates/search.html",
+		"/C/Users/user/Documents/all/devlopement/python/django/mysite/home/forms.py",
+		"/C/Users/user/Documents/all/devlopement/python/flask/app.py",
+		"/C/Users/user/Documents/all/devlopement/sd/tutorial 1/style/style.css",
+		"/C/Users/user/Documents/all/devlopement/sd/tutorial 1/index.html",
+		"/C/Users/user/Documents/all/devlopement/sd/tutorial 1/javascripts/app.js",
+		"/C/Users/user/Documents/all/devlopement/sd/tutorial 1/style.css",
+		"/C/Users/user/Documents/all/devlopement/sd/tutorial 1/app.js",
+		"/C/Users/user/Documents/all/devlopement/django/tamplates/nav-bar.html",
+		"/C/Users/user/Documents/all/devlopement/django/home/views.py",
+		"/C/Users/user/Documents/all/devlopement/django/home/apps.py",
+		"/C/Users/user/Documents/all/devlopement/django/web/urls.py",
+		"/C/Users/user/Documents/all/devlopement/django/home/urls.py",
+		"/C/Users/user/Documents/all/devlopement/django/web/settings.py",
+		"/C/Users/user/Documents/all/devlopement/django/src/tamplates/home.html",
+		"/C/Users/user/Documents/all/devlopement/django/home/models.py",
+		"/C/Users/user/Documents/all/devlopement/django/db.sqlite3",
+		"/C/Users/user/Documents/all/devlopement/flask/static/style.css",
+		"/C/Users/user/Documents/all/devlopement/flask/static/styles/style.css",
+		"/C/Users/user/Documents/all/devlopement/py/4.py",
+		"/C/Users/user/Documents/all/devlopement/flask/template/home.html",
+		"/C/Users/user/Documents/all/devlopement/flask/tem/index.html",
+		"/C/Users/user/Documents/all/devlopement/flask/index.html",
+		"/C/Users/user/AppData/Local/Temp/kite_tutorial.py",
+		"/C/Users/user/Documents/all/devlopement/sd/index.php",
+		"/C/Users/user/Documents/all/devlopement/py/obj.py",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/css/style2.css",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/login.html",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/css/style.css",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/index.html",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/login and logup.html",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/1.html",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/27648-middle.png",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/endroits-japon7-630x409.jpg",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/eb11e8075f5b3540b438b6972327d03e.png",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/eb11e8075f5b3540b438b6972327d03e.jpg",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/Capture.PNG",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/bac2.jpg",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/bac.jpg",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/anonymos.jpg",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/amine.png",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/59615197_409050823264145_5500935868665298944_n.jpg",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/fortnite.jpg",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/ffc80163e957a0aabe9a12b3a9a022b6.jpg",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/esport.jpg",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/wp-anime-65248541.jpg",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/téléchargement.jpg",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/pc.jpg",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/pc gamer.jpg",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/lynx.jpg",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/kratos_3203.jpg",
+		"/C/Users/user/Documents/all/Nouveau dossier/website/Lion_d'Afrique.jpg"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"templates\\details.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 389.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"back"
+			]
+		],
+		"width": 496.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 102.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
